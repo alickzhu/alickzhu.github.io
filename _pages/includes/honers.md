@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - **2023.03** Outstanding Master’s Graduate, Harbin Institute of Technology (3%)
 - **2023.03** Outstanding Dissertation for Master’s Degree, Harbin Institute of Technology (3%)
 - **2021.10** National Scholarship (for Graduate Student, 2%)
