@@ -1,10 +1,10 @@
 
 # 📝 Publications 
 ## 📚 Narrative Understanding
-- ``Under Review`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051), Runcong Zhao, **Qinglin Zhu** (Equal contribution), Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui
+- ``Under Review`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051), Runcong Zhao\*, **Qinglin Zhu**\* (Equal contribution), Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui
 
 ## 🤔 Reasoning
-- ``Under Review`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963), Hanqi Yan, **Qinglin Zhu** (Equal contribution), Xinyu Wang, Lin Gui, Yulan He.
+- ``Under Review`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963), Hanqi Yan\*, **Qinglin Zhu**\* (Equal contribution), Xinyu Wang, Lin Gui, Yulan He.
 
 
 ## 😀 Sentiment Analysis and Stance Detection
