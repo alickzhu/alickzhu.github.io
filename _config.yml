@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qinglin Zhu (祝清麟)"
-description              : "(N)5.08 Postgraduate Office Bush House Strand Campus, 30 Aldwych, London, WC2B 4BG"
+description              : "(N)5.08 Postgraduate Office <br />Bush House<br />Strand Campus, 30 Aldwych,<br />London, WC2B 4BG"
 repository               : "alickzhu/alickzhu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qinglin Zhu <br />(祝清麟)"
+  name             : "Qinglin Zhu <br /> (祝清麟)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "King's College London"
   location         : "London, UK"
