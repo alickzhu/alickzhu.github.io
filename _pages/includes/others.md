@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- *2023.10 - now*, Ph.D., King's college London, London.
-- *2020.09 - 2023.03*, Master, Harbin Institute of Technology (Shenzhen), Shenzhen.
-- *2016.09 - 2020.06*, Bachelor, Harbin Institute of Technology (Shenzhen), Shenzhen.
+- *2023.10 - now*, Ph.D., King's College London, London, UK.
+- *2020.09 - 2023.03*, Master, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
+- *2016.09 - 2020.06*, Bachelor, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
 
 [//]: # (# 💬 Invited Talks)
 
