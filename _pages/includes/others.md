@@ -14,7 +14,7 @@
 
 [//]: # (- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk)
 
-# 💻 Internships and Works
+# 💻 Works and Internships
 - *2023.04 - 2023.08*, Baidu, Shanghai.
 - *2022.06 - 2022.09*, Shopee, Shanghai.(_Internship_)
 - *2021.08 - 2022.04*, Tencent Music Entertainment Group, Shenzhen.(_Internship_)
