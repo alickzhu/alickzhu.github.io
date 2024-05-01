@@ -1,6 +1,7 @@
 
 # 📝 Publications 
 ## 📚 Narrative Understanding
+- ``Under Review`` [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662), **Qinglin Zhu**\*, Runcong Zhao\*, Jinhua Du, Lin Gui, Yulan He.
 - ``Under Review`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051), Runcong Zhao\*, **Qinglin Zhu**\* (Equal contribution), Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.
 
 ## 🤔 Reasoning and Planning
