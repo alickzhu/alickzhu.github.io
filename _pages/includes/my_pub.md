@@ -1,6 +1,7 @@
 
 # 📝 Publications 
 ## 📚 Narrative Understanding
+- ``Under Review`` SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding, **Qinglin Zhu**\*, Runcong Zhao\*, Hainiu Xu, Yulan He, Lin Gui.
 - ``Under Review`` [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662), **Qinglin Zhu**\*, Runcong Zhao\*, Jinhua Du, Lin Gui, Yulan He.
 - ``ACL-2024 Findings`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051), Runcong Zhao\*, **Qinglin Zhu**\* (Equal contribution), Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.
 
