@@ -8,6 +8,7 @@
 - ``ACL-2024`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963), Hanqi Yan\*, **Qinglin Zhu**\* (Equal contribution), Xinyu Wang, Lin Gui, Yulan He.
 
 
+
 ## 📚 Narrative Understanding
 
 [//]: # (- ``Under Review`` SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding, Runcong Zhao\*, **Qinglin Zhu**\* &#40;Equal contribution&#41;, Hainiu Xu, Yulan He, Lin Gui.)
