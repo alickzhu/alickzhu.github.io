@@ -4,7 +4,7 @@
 
 ## 🤔 Reasoning
 
-- ``ICML-2025 Spotlight`` [Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://openreview.net/forum?id=Pp90xRxITT&referrer=%5Bthe%20profile%20of%20Lin%20Gui%5D(%2Fprofile%3Fid%3D~Lin_Gui3)), **Qinglin Zhu**\*, Runcong Zhao\*, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
+- ``ICML-2025 Spotlight`` [Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://openreview.net/forum?id=Pp90xRxITT&referrer=%5Bthe%20profile%20of%20Lin%20Gui%5D(%2Fprofile%3Fid%3D~Lin_Gui3)), **Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
 - ``ACL-2025`` [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606),  Zhanghao Hu, Hanqi Yan, **Qinglin Zhu†**, Zhenyi Shen, Yulan He, Lin Gui.
 - ``ACL-2024`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963), Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He.
 
@@ -12,7 +12,7 @@
 ## 📚 Narrative Understanding
 
 [//]: # (- ``Under Review`` SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding, Runcong Zhao\*, **Qinglin Zhu**\* &#40;Equal contribution&#41;, Hainiu Xu, Yulan He, Lin Gui.)
-- ``Under Review`` [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662), **Qinglin Zhu**\*, Runcong Zhao\*, Jinhua Du, Lin Gui, Yulan He.
+- ``Under Review`` [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662), **Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He.
 - ``ACL-2024 Findings`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051), Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.
 
 
