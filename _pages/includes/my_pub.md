@@ -4,7 +4,7 @@
 
 ## 🤔 Reasoning
 
-- ``ICML-2025 Spotlight`` [Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://openreview.net/forum?id=Pp90xRxITT&referrer=%5Bthe%20profile%20of%20Lin%20Gui%5D(%2Fprofile%3Fid%3D~Lin_Gui3)), **Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
+- ``ICML-2025 Spotlight`` [Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://www.arxiv.org/abs/2505.24688)), **Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
 - ``ACL-2025`` [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606),  Zhanghao Hu, Hanqi Yan, **Qinglin Zhu†**, Zhenyi Shen, Yulan He, Lin Gui.
 - ``ACL-2024`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963), Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He.
 - ``Under Review`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505), Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
