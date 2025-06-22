@@ -3,6 +3,16 @@
 
 ## 🤔 Reasoning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://www.arxiv.org/abs/2505.24688) \\
+**Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
+
+We propose an embedding-based search framework that optimises the embedding of the first token to guide generation. It combines (1) Embedding perturbation for controlled exploration and (2) Bayesian optimisation to refine embeddings via a verifier-guided objective, balancing exploration and exploitation. 
+</div>
+</div>
+
 - ``ICML-2025 Spotlight`` [Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://openreview.net/forum?id=Pp90xRxITT&referrer=%5Bthe%20profile%20of%20Lin%20Gui%5D(%2Fprofile%3Fid%3D~Lin_Gui3)), **Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
 - ``Under Review`` [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606),  Zhanghao Hu, Hanqi Yan, **Qinglin Zhu†**(Corresponding author), Zhenyi Shen, Yulan He, Lin Gui.
 - ``ACL-2024`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963), Hanqi Yan\*, **Qinglin Zhu**\* (Equal contribution), Xinyu Wang, Lin Gui, Yulan He.
