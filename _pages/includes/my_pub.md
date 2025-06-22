@@ -22,7 +22,7 @@ verifier-guided objective, balancing exploration and exploitation.
 <div class='paper-box-text' markdown="1">
 
 [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606)  <br>
-Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui. <br><br>
+Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 - Proposes EmbQA, an embedding-level framework for open-domain QA that optimizes retrieval with unsupervised contrastive
   learning and improves answer diversity via exploratory embeddings.<br>
 </div>
