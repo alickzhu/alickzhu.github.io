@@ -20,27 +20,19 @@ verifier-guided objective, balancing exploration and exploitation.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='images/Beyondprompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606)  <br>
 Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui. <br><br>
-
 - Proposes EmbQA, an embedding-level framework for open-domain QA that optimizes retrieval with unsupervised contrastive
   learning and improves answer diversity via exploratory embeddings.<br>
-- Outperforms prompt-based baselines on multiple datasets and retrievers in both accuracy and efficiency.
-
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='images/mirror.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
 Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He.
-
 - Proposes Mirror, enabling LLMs to reflect from multiple perspectives via Navigator–Reasoner cooperation.<br>
 - Encourages both diverse and consistent reasoning to overcome self-reflection traps.<br>
-
 </div>
 </div>
 
