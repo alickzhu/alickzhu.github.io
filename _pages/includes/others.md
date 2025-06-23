@@ -15,8 +15,8 @@
 [//]: # (- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk)
 
 # 💻 Works and Internships
-- *2025.05 - Present*, Microsoft Research Asia<img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing, China.(_Internship_)
-- *2023.04 - 2023.08*, Baidu, Shanghai, China.
+- *2025.05 - Present*, Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing, China.(_Internship_)
+- *2023.04 - 2023.08*, Baidu  <img src='./images/biadu.png' style="width: 4em;">, Shanghai, China.
 - *2022.06 - 2022.09*, Shopee, Shanghai, China.(_Internship_)
 - *2021.08 - 2022.04*, Tencent Music Entertainment Group, Shenzhen, China.(_Internship_)
 
