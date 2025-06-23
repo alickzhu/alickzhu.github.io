@@ -42,7 +42,7 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 
 [//]: # (- ``ACL-2024`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning]&#40;https://arxiv.org/abs/2402.14963&#41;, Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He.)
-- ``Under Review`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505), Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
+[//]: # (- ``Under Review`` [Sparse Activation Editing for Reliable Instruction Following in Narratives]&#40;https://arxiv.org/abs/2505.16505&#41;, Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.)
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sparse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
