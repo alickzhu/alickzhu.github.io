@@ -34,7 +34,7 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 <div class='paper-box-text' markdown="1">
 
 [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
-Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He.
+Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
 - Proposes Mirror, enabling LLMs to reflect from multiple perspectives via Navigator–Reasoner cooperation.<br>
 - Encourages both diverse and consistent reasoning to overcome self-reflection traps.<br>
 </div>
