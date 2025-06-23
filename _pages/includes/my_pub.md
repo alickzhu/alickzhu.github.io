@@ -47,10 +47,32 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [//]: # (- ``Under Review`` SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding, Runcong Zhao\*, **Qinglin Zhu**\* &#40;Equal contribution&#41;, Hainiu Xu, Yulan He, Lin Gui.)
 
-- ``Under Review`` [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662),
-  **Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He.
-- ``ACL-2024 Findings`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051),
+[//]: # (- ``Under Review`` [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games]&#40;https://arxiv.org/abs/2404.17662&#41;,)
+
+[//]: # (  **Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He.)
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/player.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
+**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
+
+We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/conan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)
   Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.
+
+Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios. To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives. 
+</div>
+</div>
+
+[//]: # (- ``ACL-2024 Findings`` [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives]&#40;https://arxiv.org/abs/2402.11051&#41;,)
+[//]: # (  Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.)
 
 ## 😆 Sentiment Analysis and Stance Detection
 
