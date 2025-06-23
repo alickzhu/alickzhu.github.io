@@ -44,6 +44,20 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 [//]: # (- ``ACL-2024`` [Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning]&#40;https://arxiv.org/abs/2402.14963&#41;, Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He.)
 - ``Under Review`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505), Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sparse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
+
+We introduce Concise-SAE, a training-free method that improves instruction following by editing relevant neurons using natural language instructions. Tested on our new FreeInstruct benchmark of 1,212 narrative-rich examples, it achieves state-of-the-art results without training or labelled data.</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL-2024 Findings</div><div><img src='images/conan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
 ## 📚 Narrative Understanding
 
 [//]: # (- ``Under Review`` SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding, Runcong Zhao\*, **Qinglin Zhu**\* &#40;Equal contribution&#41;, Hainiu Xu, Yulan He, Lin Gui.)
