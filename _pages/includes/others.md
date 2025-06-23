@@ -16,8 +16,8 @@
 
 # 💻 Works and Internships
 - *2025.05 - Present*, Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing, China.(_Internship_)
-- *2023.04 - 2023.08*, Baidu  <img src='./images/biadu.png' style="width: 4em;">, Shanghai, China.
-- *2022.06 - 2022.09*, Shopee, Shanghai, China.(_Internship_)
+- *2023.04 - 2023.08*, Baidu <img src='./images/biadu.png' style="width: 4em;">, Shanghai, China.
+- *2022.06 - 2022.09*, Shopee <img src='./images/shopee.svg' style="width: 4em;">, Shanghai, China.(_Internship_) 
 - *2021.08 - 2022.04*, Tencent Music Entertainment Group, Shenzhen, China.(_Internship_)
 
 [//]: # (- *2018.08 - 2019.02*, [MSRA, machine learning Group]&#40;https://www.microsoft.com/en-us/research/group/machine-learning-research-group/&#41;, Beijing.)
