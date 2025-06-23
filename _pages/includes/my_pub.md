@@ -64,8 +64,8 @@ We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ACL-2024 Findings</div><div><img src='images/conan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)
-  Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.
+[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)<br>
+Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui.
 
 Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios. To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives. 
 </div>
