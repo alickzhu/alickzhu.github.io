@@ -4,7 +4,7 @@
 
 ## 🤔 Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='images/soft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='images/SOFT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://www.arxiv.org/abs/2505.24688) [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/alickzhu/Soft-Reasoning)  <br>
@@ -20,7 +20,7 @@ verifier-guided objective, balancing exploration and exploitation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='images/Beyondprompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='images/beyondprompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606)  <br>
@@ -51,7 +51,7 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [//]: # (  **Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He.)
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/player.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PLAYER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
