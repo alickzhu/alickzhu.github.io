@@ -15,10 +15,10 @@
 [//]: # (- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk)
 
 # 💻 Works and Internships
-- *2025.05 - Present*, <img src='./images/microsoft_logo.svg' style="width: 4em;"> Microsoft Research Asia, Beijing, China. (_Internship_)
-- *2023.04 - 2023.08*, <img src='./images/baidu-ar21~bgwhite.svg' style="width: 4em;"> Baidu, Shanghai, China.
-- *2022.06 - 2022.09*, <img src='./images/shopee.svg' style="width: 4em;"> Shopee, Shanghai, China. (_Internship_) 
-- *2021.08 - 2022.04*, <img src='./images/Tencent_Music.svg' style="width: 2em;"> Tencent Music Entertainment Group, Shenzhen, China. (_Internship_)
+- *2025.05 - Present*, Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing, China.(_Internship_)
+- *2023.04 - 2023.08*, Baidu <img src='./images/baidu-ar21~bgwhite.svg' style="width: 4em;">, Shanghai, China.
+- *2022.06 - 2022.09*, Shopee <img src='./images/shopee.svg' style="width: 4em;">, Shanghai, China.(_Internship_) 
+- *2021.08 - 2022.04*, Tencent Music Entertainment Group <img src='./images/Tencent_Music.svg' style="width: 2em;">, Shenzhen, China.(_Internship_)
 
 [//]: # (- *2018.08 - 2019.02*, [MSRA, machine learning Group]&#40;https://www.microsoft.com/en-us/research/group/machine-learning-research-group/&#41;, Beijing.)
 
