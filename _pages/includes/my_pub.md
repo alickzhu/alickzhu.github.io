@@ -61,7 +61,7 @@ We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/conan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL-2024 Findings</div><div><img src='images/conan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)
