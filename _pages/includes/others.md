@@ -20,8 +20,5 @@
 - *2022.06 - 2022.09*, Shopee <img src='./images/shopee.svg' style="width: 4em;">, Shanghai, China.(_Internship_) 
 - *2021.08 - 2022.04*, Tencent Music Entertainment Group <img src='./images/Tencent_Music.svg' style="width: 2em;">, Shenzhen, China.(_Internship_)
 
-[//]: # (- *2018.08 - 2019.02*, [MSRA, machine learning Group]&#40;https://www.microsoft.com/en-us/research/group/machine-learning-research-group/&#41;, Beijing.)
-
-[//]: # (- *2018.01 - 2018.06*, [NetEase, AI department]&#40;https://hr.163.com/zc/12-ai/index.html&#41;, Hangzhou.)
-
-[//]: # (- *2017.08 - 2018.12*, DashBase &#40;acquired by [Cisco]&#40;https://blogs.cisco.com/news/349511&#41;&#41;, Hangzhou.)
+# 🫡 Service
+- Reviewer: ICML, ACL, EMNLP, NAACL, NLPCC.
