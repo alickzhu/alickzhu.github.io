@@ -77,20 +77,20 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 
 ## 😆 Sentiment Analysis and Stance Detection
 
-- ``ACL-2022`` [JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection](https://aclanthology.org/2022.acl-long.7/),
-  Bin Liang\*, **Qinglin Zhu**\* , Xiang Li, Min Yang, Lin Gui, Yulan He, and Ruifeng Xu. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/HITSZ-HLT/JointCL)
-- ``SIGIR-2022`` [Enhancing Zero-Shot Stance Detection via Targeted Background Knowledge](https://dl.acm.org/doi/10.1145/3477495.3531807),
+- ``ACL-2022`` [JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection](https://aclanthology.org/2022.acl-long.7/) <br>
+  Bin Liang\*, **Qinglin Zhu**\* , Xiang Li, Min Yang, Lin Gui, Yulan He, and Ruifeng Xu. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/HITSZ-HLT/JointCL) <br>
+- ``SIGIR-2022`` [Enhancing Zero-Shot Stance Detection via Targeted Background Knowledge](https://dl.acm.org/doi/10.1145/3477495.3531807) <br>
   **Qinglin Zhu**\*, Bin Liang\*, Jingyi Sun, Jiachen Du, Lanjun Zhou, and Ruifeng Xu.
-- ``CCL-2020`` [Attention-based Recurrent Network Combined with Financial Lexicon for Aspect-level Sentiment Classification](https://aclanthology.org/2020.ccl-1.63/),
+- ``CCL-2020`` [Attention-based Recurrent Network Combined with Financial Lexicon for Aspect-level Sentiment Classification](https://aclanthology.org/2020.ccl-1.63/) <br>
   **Qinglin Zhu**, Bin Liang, Liuyu Han, Yi Chen, Ruifeng Xu, and Ruibin Mao.
-- ``LREC-2020`` [Target-based sentiment annotation in Chinese financial news](https://aclanthology.org/2020.lrec-1.620/#:~:text=The%20clause%20reflecting%20the%20profitability,expression%20for%20determining%20the%20polarity.),
+- ``LREC-2020`` [Target-based sentiment annotation in Chinese financial news](https://aclanthology.org/2020.lrec-1.620/#:~:text=The%20clause%20reflecting%20the%20profitability,expression%20for%20determining%20the%20polarity.) <br>
   Chaofa Yuan, Yuhan Liu, Rongdi Yin, Jun Zhang, **Qinling Zhu**, Ruibin Mao, Ruifeng Xu.
 
 ## 🗣️ Argumentation Mining and Sequence Labeling
 
-- ``ACL-2022`` [Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension](https://aclanthology.org/2022.acl-short.4/),
+- ``ACL-2022`` [Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension](https://aclanthology.org/2022.acl-short.4/) <br>
   Jianzhu Bao, Jingyi Sun, **Qinglin Zhu**, and Ruifeng Xu.
-- ``NLPCC-2021`` [A Hierarchical Sequence Labeling Model for Argument Pair Extraction](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_38),
+- ``NLPCC-2021`` [A Hierarchical Sequence Labeling Model for Argument Pair Extraction](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_38) <br>
   Jingyi Sun, **Qinglin Zhu**, Jianzhu Bao, Jipeng Wu, Caihua Yang, Rui Wang, and Ruifeng Xu.
-- ``SemEval-2021`` [HITSZ-HLT at SemEval-2021 Task 5: Ensemble Sequence Labeling and Span Boundary Detection for Toxic Span Detection](https://aclanthology.org/2021.semeval-1.63/),
+- ``SemEval-2021`` [HITSZ-HLT at SemEval-2021 Task 5: Ensemble Sequence Labeling and Span Boundary Detection for Toxic Span Detection](https://aclanthology.org/2021.semeval-1.63/) <br>
   **Qinglin Zhu**\*, Zijie Lin\*, Yice Zhang\*, Jingyi Sun, Xiang Li, Qihui Lin, Yixue Dang, and Ruifeng Xu.
