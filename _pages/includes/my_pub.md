@@ -46,7 +46,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
 Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
 
-We introduce Concise-SAE, a training-free method that improves instruction following by editing relevant neurons using natural language instructions. Tested on our new FreeInstruct benchmark of 1,212 narrative-rich examples, it achieves state-of-the-art results without training or labelled data.
+- We introduce Concise-SAE, a training-free method that improves instruction following by editing relevant neurons using natural language instructions. 
+- Tested on our new FreeInstruct benchmark of 1,212 narrative-rich examples, it achieves state-of-the-art results without training or labelled data.
 </div>
 </div>
 
@@ -59,7 +60,8 @@ We introduce Concise-SAE, a training-free method that improves instruction follo
 [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)<br>
 Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/BLPXSPG/Conan/tree/main)
 
-Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios. To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives. 
+- Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios. 
+- To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives. 
 </div>
 </div>
 
@@ -69,7 +71,7 @@ Existing datasets for narrative understanding often fail to represent the comple
 [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
 **Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
 
-We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
+- We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
 </div>
 </div>
 
