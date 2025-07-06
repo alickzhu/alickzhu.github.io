@@ -9,7 +9,7 @@ author_profile: true
 
 {% include_relative _pages/includes/intro.zh.md %}
 
-{% include_relative _pages/includes/my_pub.md %}
+{% include_relative _pages/includes/my_pub.zh.md %}
 
 {% include_relative _pages/includes/honers.zh.md %}
 
