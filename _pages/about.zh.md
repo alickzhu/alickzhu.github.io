@@ -9,11 +9,13 @@ author_profile: true
 
 {% include_relative includes/intro.zh.md %}
 
-{% include_relative includes/my_pub.md %}
+{% include_relative includes/my_pub.zn.md %}
 
-{% include_relative includes/honers.md %}
+{% include_relative includes/honers.zn.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/educations.zh.md %}
+
+{% include_relative includes/works.zh.md %}
 
 最后更新：
 
