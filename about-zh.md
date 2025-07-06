@@ -17,7 +17,7 @@ author_profile: true
 
 {% include_relative _pages/includes/works.zh.md %}
 
-{% include_relative _pages/includes/others.md %}
+{% include_relative _pages/includes/others.zh.md %}
 
 最后更新：
 
