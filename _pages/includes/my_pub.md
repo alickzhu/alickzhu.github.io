@@ -40,16 +40,6 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/sparse.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
-
-- We introduce Concise-SAE, a training-free method that improves instruction following by editing relevant neurons using natural language instructions. 
-- Tested on our new FreeInstruct benchmark of 1,212 narrative-rich examples, it achieves state-of-the-art results without training or labelled data.
-</div>
-</div>
 
 
 ## 📚 Narrative Understanding
@@ -65,6 +55,18 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/sparse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
+
+- We introduce Concise-SAE, a training-free method that improves instruction following by editing relevant neurons using natural language instructions. 
+- Tested on our new FreeInstruct benchmark of 1,212 narrative-rich examples, it achieves state-of-the-art results without training or labelled data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,6 +76,8 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 - We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
 </div>
 </div>
+
+
 
 ## 😆 Sentiment Analysis and Stance Detection
 
