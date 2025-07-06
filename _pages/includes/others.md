@@ -1,25 +1,22 @@
 
-# 📖 Educations
-- *2023.10 - now*, Ph.D., [King's College London](https://www.kcl.ac.uk/), London, UK.
-- *2020.09 - 2023.03*, Master, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), Shenzhen, China.
-- *2016.09 - 2020.06*, Bachelor, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), Shenzhen, China.
+# 🏅 荣誉与奖项
+- **2023.03** 优秀硕士毕业生 & 优秀硕士学位论文，哈尔滨工业大学（3%）
+- **2021.10** 国家奖学金（研究生，2%）
+- **2021.03** NLPCC-2021 共享任务：论元对抽取（第一名）
+- **2021.02** SemEval-2021 Task 5 竞赛：有害片段检测（第一名，队长）
+- **2020.06** 优秀本科毕业生 & 优秀本科毕业论文，哈尔滨工业大学（3%）
+- **2019.10** 国家奖学金（本科生，2%）
 
-[//]: # (# 💬 Invited Talks)
+# 📖 教育经历
+- **2023.10 - 至今**，博士，伦敦国王学院（King’s College London），英国伦敦
+- **2020.09 - 2023.03**，硕士，哈尔滨工业大学（深圳），中国深圳
+- **2016.09 - 2020.06**，学士，哈尔滨工业大学（深圳），中国深圳
 
-[//]: # (- *2022.02*, Hosted MLNLP seminar \| [\[Video\]]&#40;https://www.bilibili.com/video/BV1wF411x7qh&#41;)
+# 💻 工作与实习经历
+- **2025.05 - 至今**，微软亚洲研究院 <img src='/images/microsoft_logo.svg' style="width: 4em;">，中国北京（实习）
+- **2023.04 - 2023.08**，百度 <img src='/images/baidu-ar21~bgwhite.svg' style="width: 3.5em;">，中国上海
+- **2022.06 - 2022.09**，Shopee <img src='/images/shopee.svg' style="width: 3.5em;">，中国上海（实习）
+- **2021.08 - 2022.04**，腾讯音乐娱乐集团 <img src='/images/Tencent_Music.svg' style="width: 2em;">，中国深圳（实习）
 
-[//]: # (- *2021.06*, Audio & Speech Synthesis, Huawei internal talk)
-
-[//]: # (- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]]&#40;https://www.bilibili.com/video/BV1uf4y1t7Hr/&#41;)
-
-[//]: # (- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk)
-
-# 💻 Works and Internships
-- *2025.05 - Present*, Microsoft Research Asia <img src='/images/microsoft_logo.svg' style="width: 4em;">, Beijing, China.(_Internship_)
-- *2023.04 - 2023.08*, Baidu <img src='/images/baidu-ar21~bgwhite.svg' style="width: 3.5em;">, Shanghai, China.
-- *2022.06 - 2022.09*, Shopee <img src='/images/shopee.svg' style="width: 3.5em;">, Shanghai, China.(_Internship_) 
-- *2021.08 - 2022.04*, Tencent Music Entertainment Group <img src='/images/Tencent_Music.svg' style="width: 2em;">, Shenzhen, China.(_Internship_)
-
-# 🫡 Service
-
-- Reviewer: ICML, ACL, EMNLP, NAACL, NLPCC.
+# 🫡 学术服务
+- 审稿人：ICML、ACL、EMNLP、NAACL、NLPCC。
