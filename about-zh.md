@@ -11,7 +11,11 @@ author_profile: true
 
 {% include_relative _pages/includes/my_pub.md %}
 
-{% include_relative _pages/includes/honers.md %}
+{% include_relative _pages/includes/honers.zh.md %}
+
+{% include_relative _pages/includes/educations.zh.md %}
+
+{% include_relative _pages/includes/works.zh.md %}
 
 {% include_relative _pages/includes/others.md %}
 
