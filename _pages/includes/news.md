@@ -9,7 +9,7 @@
 - *2023.03*: 🎓 Obtained Master’s degree from Harbin Institute of Technology, Shenzhen  
 - *2022.09*: 👋 Left Shopee <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;"> (Internship, 4 months)  
 - *2022.04*: 👋 Left Tencent Music Entertainment Group <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;"> (Internship, 9 months)  
-- *2022.03*: 🎉 2 papers accepted to SIGIR 2022  
+- *2022.03*: 🎉 1 papers accepted to SIGIR 2022  
 - *2022.02*: 🎉 2 papers accepted to ACL 2022  
  
 
