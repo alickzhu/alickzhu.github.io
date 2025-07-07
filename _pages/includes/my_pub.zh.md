@@ -10,8 +10,8 @@
 [Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://www.arxiv.org/abs/2505.24688) [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/alickzhu/Soft-Reasoning)  <br>
 **Qinglin Zhu**\*, Runcong Zhao\*, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
 
-- 我们提出了一种基于嵌入的搜索框架，通过优化首个 token 的嵌入来引导生成。
-- 我们该方法结合了 (1) 嵌入扰动以实现可控探索，(2) 基于验证器的贝叶斯优化目标，在探索与利用之间取得平衡。
+- 我们提出了一种基于Embedding的搜索框架，通过优化首个 token 的Embedding来引导生成。
+- 我们该方法结合了 (1) Embedding扰动以实现可控探索，(2) 基于验证器的贝叶斯优化目标，在探索与利用之间取得平衡。
 </div>
 </div>
 
@@ -21,7 +21,7 @@
 
 [Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606)  <br>
 Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
-- 我们提出了 EmbQA，一种面向开放域问答的嵌入级框架，通过无监督对比学习优化检索，并利用探索性嵌入提升答案多样性和准确率。
+- 我们提出了 EmbQA，一种面向开放域问答的嵌入级框架，通过无监督对比学习优化检索，并利用探索性Embedding提升答案多样性和准确率。
 </div>
 </div>
 
@@ -73,7 +73,7 @@ Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Rui
 [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
 **Qinglin Zhu**\*, Runcong Zhao\*, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
 
-- 我们提出了 PLAYER*，一个用于剧本杀的多智能体交互框架，结合了任意时采样规划器和提问驱动的搜索。
+- 我们提出了 PLAYER*，一个用于剧本杀的多智能体交互框架，结合了采样规划器和提问驱动的搜索。
 </div>
 </div>
 
