@@ -3,6 +3,7 @@
 - *2025.05*: 🧑‍💻 Started internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;">  
 - *2025.05*: 🎉 1 paper accepted to [ACL 2025](https://2025.aclweb.org/index.html)  
 - *2025.05*: 🎉 1 paper accepted to [ICML 2025](https://icml.cc/Conferences/2025) (**Spotlight**🌟)  
+- *2024.11*: 💬 Invited talk: ["Complex Reasoning in Narratives with LLMs"](https://sist.bfsu.edu.cn/info/1391/1591.htm), Beijing Foreign Studies University
 - *2024.05*: 🎉 2 papers accepted to [ACL 2024](https://2024.aclweb.org/index.html)  
 - *2023.10*: 🚀 Started Ph.D. at [King’s College London (KCL)](https://www.kcl.ac.uk/)  
 - *2023.08*: 👋 Left [Baidu](https://usa.baidu.com/) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;"> as NLP Algorithm Engineer (5 months)  
