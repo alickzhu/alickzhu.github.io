@@ -7,7 +7,7 @@
 - *2023.10*: 🚀 在伦敦国王学院（KCL）攻读博士  
 - *2023.08*: 👋 离开百度<img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;">，NLP 算法工程师（5 个月）  
 - *2023.03*: 🎓 获得哈尔滨工业大学（深圳）硕士学位  
-- *2022.09*: 👋 离开虾皮 <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;">，实习生，3 个月  
+- *2022.09*: 👋 离开虾皮 <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;">，实习生，4 个月  
 - *2022.04*: 👋 离开腾讯音乐娱乐集团<img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;">，实习生，9 个月  
 - *2022.03*: 🎉 2 篇论文被 SIGIR 2022 接收  
 - *2022.02*: 🎉 2 篇论文被 ACL 2022 接收  
