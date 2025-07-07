@@ -3,6 +3,7 @@
 - *2025.05*: 🧑‍💻 入职 [微软亚洲研究院（MSRA）](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;"> 实习  
 - *2025.05*: 🎉 1 篇论文被 [ACL 2025](https://2025.aclweb.org/index.html) 接收  
 - *2025.05*: 🎉 1 篇论文被 [ICML 2025](https://icml.cc/Conferences/2025)（**Spotlight**🌟）接收  
+- *2024.11*: 💬 [“大语言模型在侦探小说中的复杂推理理解”受邀报告](https://sist.bfsu.edu.cn/info/1391/1591.htm)，北京外国语大学
 - *2024.05*: 🎉 2 篇论文被 [ACL 2024](https://2024.aclweb.org/index.html) 接收  
 - *2023.10*: 🚀 在 [伦敦国王学院（KCL）](https://www.kcl.ac.uk/) 攻读博士  
 - *2023.08*: 👋 离开 [百度](https://usa.baidu.com/) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;">，NLP 算法工程师（5 个月）  
