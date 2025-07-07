@@ -1,16 +1,17 @@
 # 🔥 最新动态
 
-- *2025.05*: 🧑‍💻 入职微软亚洲研究院（MSRA）实习 <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;">  
+- *2025.05*: 🧑‍💻 入职微软亚洲研究院（MSRA）<img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;"> 实习  
 - *2025.05*: 🎉 1 篇论文被 ACL 2025 接收  
 - *2025.05*: 🌟 1 篇论文被 ICML 2025（**Spotlight**）接收  
 - *2024.05*: 🎉 2 篇论文被 ACL 2024 接收  
 - *2023.10*: 🚀 在伦敦国王学院（KCL）攻读博士  
-- *2023.08*: 👋 离开百度，NLP 算法工程师（5 个月）<img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;">  
+- *2023.08*: 👋 离开百度<img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;">，NLP 算法工程师（5 个月）  
 - *2023.03*: 🎓 获得哈尔滨工业大学（深圳）硕士学位  
-- *2022.09*: 👋 离开虾皮（Shopee），实习生，3 个月 <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;">  
-- *2022.04*: 👋 离开腾讯音乐娱乐集团，实习生，9 个月 <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;">  
+- *2022.09*: 👋 离开虾皮 <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;">，实习生，3 个月  
+- *2022.04*: 👋 离开腾讯音乐娱乐集团<img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;">，实习生，9 个月  
 - *2022.03*: 🎉 2 篇论文被 SIGIR 2022 接收  
 - *2022.02*: 🎉 2 篇论文被 ACL 2022 接收  
+
 
 
 [//]: # ()
