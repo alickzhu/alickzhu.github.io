@@ -2,7 +2,7 @@
 
 - *2025.05*: 🧑‍💻 入职微软亚洲研究院（MSRA）<img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;"> 实习  
 - *2025.05*: 🎉 1 篇论文被 ACL 2025 接收  
-- *2025.05*: 🌟 1 篇论文被 ICML 2025（**Spotlight**）接收  
+- *2025.05*: 🎉 1 篇论文被 ICML 2025（**Spotlight**🌟）接收  
 - *2024.05*: 🎉 2 篇论文被 ACL 2024 接收  
 - *2023.10*: 🚀 在伦敦国王学院（KCL）攻读博士  
 - *2023.08*: 👋 离开百度<img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;">，NLP 算法工程师（5 个月）  
