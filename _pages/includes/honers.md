@@ -1,4 +1,4 @@
-# �� Honors and Awards
+# 🏅 Honors and Awards
 
 - *2023.03* Outstanding Master’s Graduate & Outstanding Dissertation for Master’s Degree, HIT (3%)
 - *2023.03* Sailvan Times Scholarship (2%), Harbin Institute of Technology
