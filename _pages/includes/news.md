@@ -1,13 +1,15 @@
 # 🔥 News
 
-- *2025.05*: 🧑‍💻 Started internship at Microsoft Research Asia (MSRA)  
+- *2025.05*: 🧑‍💻 Started internship at Microsoft Research Asia (MSRA) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;">  
 - *2025.05*: 🎉 1 paper accepted to ACL 2025  
 - *2025.05*: 🌟 1 paper accepted to ICML 2025 (**Spotlight**)  
 - *2024.05*: 🎉 2 papers accepted to ACL 2024  
 - *2023.10*: 🚀 Started Ph.D. at King’s College London (KCL)  
-- *2023.08*: 👋 Left Baidu as NLP Algorithm Engineer (5 months)  
+- *2023.08*: 👋 Left Baidu as NLP Algorithm Engineer (5 months) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;">  
 - *2023.03*: 🎓 Obtained Master’s degree from Harbin Institute of Technology, Shenzhen  
-- *2022.03*: 🎉 1 papers accepted to SIGIR 2022  
+- *2022.09*: 👋 Left Shopee (Internship, 3 months) <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;">  
+- *2022.04*: 👋 Left Tencent Music Entertainment Group (Internship, 9 months) <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;">  
+- *2022.03*: 🎉 2 papers accepted to SIGIR 2022  
 - *2022.02*: 🎉 2 papers accepted to ACL 2022  
 
 [//]: # ()
