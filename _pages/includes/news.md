@@ -2,7 +2,7 @@
 
 - *2025.05*: 🧑‍💻 Started internship at Microsoft Research Asia (MSRA) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;">  
 - *2025.05*: 🎉 1 paper accepted to ACL 2025  
-- *2025.05*: 🌟 1 paper accepted to ICML 2025 (**Spotlight**)  
+- *2025.05*: 🎉 1 paper accepted to ICML 2025 (**Spotlight**🌟)  
 - *2024.05*: 🎉 2 papers accepted to ACL 2024  
 - *2023.10*: 🚀 Started Ph.D. at King’s College London (KCL)  
 - *2023.08*: 👋 Left Baidu <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;"> as NLP Algorithm Engineer (5 months)  
