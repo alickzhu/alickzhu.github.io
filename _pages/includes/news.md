@@ -3,13 +3,13 @@
 - *2025.05*: 🧑‍💻 Started internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;">  
 - *2025.05*: 🎉 1 paper accepted to [ACL 2025](https://2025.aclweb.org/index.html)  
 - *2025.05*: 🎉 1 paper accepted to [ICML 2025](https://icml.cc/Conferences/2025) (**Spotlight**🌟)  
-- *2024.11*: 💬 Invited talk: ["Complex Reasoning in Narratives with LLMs"](https://sist.bfsu.edu.cn/info/1391/1591.htm), Beijing Foreign Studies University
+- *2024.11*: 💬 Invited talk: ["Complex Reasoning in Narratives with LLMs"](https://sist.bfsu.edu.cn/info/1391/1591.htm), Beijing Foreign Studies University  
 - *2024.05*: 🎉 2 papers accepted to [ACL 2024](https://2024.aclweb.org/index.html)  
 - *2023.10*: 🚀 Started Ph.D. at [King’s College London (KCL)](https://www.kcl.ac.uk/)  
-- *2023.08*: 👋 Left [Baidu](https://usa.baidu.com/) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;"> as NLP Algorithm Engineer (5 months)  
+- *2023.08*: 🧑‍💻 NLP Algorithm Engineer at [Baidu](https://usa.baidu.com/) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;"> completed (5 months)  
 - *2023.03*: 🎓 Obtained Master’s degree from [Harbin Institute of Technology, Shenzhen](https://global.hitsz.edu.cn/About_HITSZ.htm)  
-- *2022.09*: 👋 Left [Shopee](https://www.sea.com/products/shopee) <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;"> (Internship, 4 months)  
-- *2022.04*: 👋 Left [Tencent Music Entertainment Group](https://www.tencentmusic.com/en-us/) <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;"> (Internship, 9 months)  
+- *2022.09*: 🧑‍💻 Internship at [Shopee](https://www.sea.com/products/shopee) <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;"> completed (4 months)  
+- *2022.04*: 🧑‍💻 Internship at [Tencent Music Entertainment Group](https://www.tencentmusic.com/en-us/) <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;"> completed (9 months)  
 - *2022.03*: 🎉 1 paper accepted to [SIGIR 2022](https://sigir.org/sigir2022/)  
 - *2022.02*: 🎉 2 papers accepted to [ACL 2022](https://2022.aclweb.org/index.html)  
 
