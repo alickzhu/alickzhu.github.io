@@ -6,10 +6,10 @@
 - *2024.11*: 💬 [“大语言模型在侦探小说中的复杂推理理解”受邀报告](https://sist.bfsu.edu.cn/info/1391/1591.htm)，北京外国语大学  
 - *2024.05*: 🎉 2 篇论文被 [ACL 2024](https://2024.aclweb.org/index.html) 接收  
 - *2023.10*: 🚀 在 [伦敦国王学院（KCL）](https://www.kcl.ac.uk/) 攻读博士  
-- *2023.08*: 🧑‍💻 [百度](https://usa.baidu.com/) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;"> NLP 算法工程师（5 个月）工作完成  
+- *2023.08*: 🧑‍💻 [百度](https://usa.baidu.com/) <img src='/images/baidu-ar21~bgwhite.svg' style="width: 2.6em; vertical-align: middle;"> NLP 算法工程师工作完成（5 个月）  
 - *2023.03*: 🎓 获得 [哈尔滨工业大学（深圳）](https://global.hitsz.edu.cn/About_HITSZ.htm) 硕士学位  
-- *2022.09*: 🧑‍💻 [虾皮](https://www.sea.com/products/shopee) <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;"> 实习期满（4 个月）  
-- *2022.04*: 🧑‍💻 [腾讯音乐娱乐集团](https://www.tencentmusic.com/en-us/) <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;"> 实习期满（9 个月）  
+- *2022.09*: 🧑‍💻 [虾皮](https://www.sea.com/products/shopee) <img src='/images/shopee.svg' style="width: 2.6em; vertical-align: middle;"> 实习完成（4 个月）  
+- *2022.04*: 🧑‍💻 [腾讯音乐娱乐集团](https://www.tencentmusic.com/en-us/) <img src='/images/Tencent_Music.svg' style="width: 1.7em; vertical-align: middle;"> 实习完成（9 个月）  
 - *2022.03*: 🎉 1 篇论文被 [SIGIR 2022](https://sigir.org/sigir2022/) 接收  
 - *2022.02*: 🎉 2 篇论文被 [ACL 2022](https://2022.aclweb.org/index.html) 接收  
 
