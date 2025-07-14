@@ -77,6 +77,16 @@ Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Rui
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
+Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
+
+- 提出SymbolicThought框架，融合大语言模型关系抽取与符号推理，实现高效、可解释的人物关系理解。
+- 支持关系图可编辑、逻辑约束校验和交互式冲突解决。
+</div>
+</div>
 
 
 ## 😆 情感分析与立场检测
