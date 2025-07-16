@@ -12,7 +12,11 @@
               <a href="/zh/">中文版</a>
             {% endif %}
           </li>
-          {% for link in site.data.navigation.main %}
+          {% assign nav = site.data.navigation.main %}
+          {% if page.permalink contains '/zh/' or page.permalink == '/zh/' %}
+            {% assign nav = site.data['navigation.zh'].main %}
+          {% endif %}
+          {% for link in nav %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
