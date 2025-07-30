@@ -19,10 +19,12 @@
             {% endif %}
           </li>
           {% if page.permalink contains '/zh/' or page.permalink == '/zh/' %}
-            {% for link in site.data.navigation.zh.main %}
+            <!-- Debug: Using Chinese navigation -->
+            {% for link in site.data.navigation_zh.main %}
               <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
+            <!-- Debug: Using English navigation -->
             {% for link in site.data.navigation.main %}
               <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
