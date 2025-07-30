@@ -2,6 +2,9 @@ main:
   - title: "关于我"
     url: "#about-me"
 
+  - title: "最新动态"
+    url: "#-最新动态"
+
   - title: "论文"
     url: "#-论文"
 
