@@ -21,7 +21,7 @@
           {% if page.permalink contains '/zh/' or page.permalink == '/zh/' %}
             <!-- Debug: Using Chinese navigation -->
             {% for link in site.data.navigation_zh.main %}
-              <li class="masthead__menu-item"><a href="/zh/{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
             <!-- Debug: Using English navigation -->
