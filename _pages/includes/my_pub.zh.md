@@ -25,6 +25,16 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2025</div><img src='/images/SPARSE_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
+
+- 我们提出了 Concise-SAE，这是一种无需训练的指令跟随方法，通过自然语言指令编辑相关神经元。
+- 在我们新提出的 FreeInstruct 基准（1212 个叙事样本）上，无需训练或标注数据即可达到 SOTA。
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
@@ -38,16 +48,6 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/sparse.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
-
-- 我们提出了 Concise-SAE，这是一种无需训练的指令跟随方法，通过自然语言指令编辑相关神经元。
-- 在我们新提出的 FreeInstruct 基准（1212 个叙事样本）上，无需训练或标注数据即可达到 SOTA。
-</div>
-</div>
 
 
 
