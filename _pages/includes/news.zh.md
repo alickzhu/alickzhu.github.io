@@ -1,5 +1,6 @@
 # 🔥 最新动态
 
+- *2025.08*: 🎉 1 篇论文被 [EMNLP 2025](https://2025.emnlp.org/) 接收  
 - *2025.05*: 🧑‍💻 入职 [微软亚洲研究院（MSRA）](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;"> 实习  
 - *2025.05*: 🎉 1 篇论文被 [ACL 2025](https://2025.aclweb.org/index.html) 接收  
 - *2025.05*: 🎉 1 篇论文被 [ICML 2025](https://icml.cc/Conferences/2025)（**Spotlight**🌟）接收  
