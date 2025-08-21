@@ -59,7 +59,7 @@ Zhanghao Hu, Qinglin Zhu, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
 - Proposes SPS, a supervision-free metric to assess semantic alignment between retrieved summaries and LLM representations.<br>
 - Introduces xCompress, an inference-time controller that ranks and compresses retrievals to improve generation and clarify retrieval–generation interaction.<br></div>
 </div>
-
+</div>
 
 
 
