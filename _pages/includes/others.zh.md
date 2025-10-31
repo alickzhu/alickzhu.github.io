@@ -11,4 +11,4 @@
 
 # 🫡 学术服务
 
-- 审稿人：ICML, ACL, EMNLP, NAACL, NLPCC。 
+- 审稿人：ICLR, ICML, ACL, AAAI, EMNLP, NAACL, NLPCC。 
