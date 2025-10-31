@@ -51,6 +51,18 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LRD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+Qinglin Zhu, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+- Proposes Latent Refinement Decoding (LRD), a two-stage decoding framework that addresses information loss and premature commitment in diffusion-inspired language models through latent refinement and predictive feedback.<br>
+- Enables faster and more consistent parallel generation, providing a principled and versatile alternative to traditional autoregressive decoding.<br></div>
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/spectrum_withouttag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
