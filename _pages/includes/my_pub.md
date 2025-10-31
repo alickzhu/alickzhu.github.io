@@ -57,7 +57,7 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
 Qinglin Zhu, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
 - Proposes Latent Refinement Decoding (LRD), a two-stage decoding framework that addresses information loss and premature commitment in diffusion-inspired language models through latent refinement and predictive feedback.<br>
-- Enables faster and more consistent parallel generation, providing a principled and versatile alternative to traditional autoregressive decoding.<br></div>
+- Enables faster and more consistent parallel generation, providing a principled and versatile alternative to traditional autoregressive decoding.<br>
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Qinglin Zhu, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen 
 [Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.05909) <br>
 Zhanghao Hu, Qinglin Zhu, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
 - Proposes SPS, a supervision-free metric to assess semantic alignment between retrieved summaries and LLM representations.<br>
-- Introduces xCompress, an inference-time controller that ranks and compresses retrievals to improve generation and clarify retrieval–generation interaction.<br></div>
+- Introduces xCompress, an inference-time controller that ranks and compresses retrievals to improve generation and clarify retrieval–generation interaction.<br>
 </div>
 </div>
 
