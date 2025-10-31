@@ -27,7 +27,7 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LRD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
