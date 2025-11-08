@@ -18,7 +18,7 @@ verifier-guided objective, balancing exploration and exploitation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2025 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.05909) <br>
