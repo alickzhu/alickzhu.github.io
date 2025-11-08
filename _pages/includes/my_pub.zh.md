@@ -16,6 +16,17 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.05909) <br>
+Zhanghao Hu, **Qinglin Zhu**, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
+- 提出 SPS，一种无监督指标，用于评估检索摘要与LLM表示之间的语义对齐。<br>
+- 引入 xCompress，一种推理时控制器，用于排序和压缩检索结果，以提升生成效果。<br>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='/images/beyond_prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,15 +72,6 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/spectrum_withouttag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.05909) <br>
-Zhanghao Hu, Qinglin Zhu, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
-- 提出 SPS，一种无监督指标，用于评估检索摘要与LLM表示之间的语义对齐。<br>
-- 引入 xCompress，一种推理时控制器，用于排序和压缩检索结果，以提升生成效果。<br>
-</div>
-</div>
 
 
 
