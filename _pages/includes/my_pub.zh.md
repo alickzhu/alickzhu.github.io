@@ -38,18 +38,6 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
-Qinglin Zhu, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
-- 提出潜变量优化解码（Latent Refinement Decoding, LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
-- 实现更高效且全局一致的并行生成，为传统自回归解码提供了一种更具理论依据与泛化能力的替代方案。<br></div>
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2025</div><img src='/images/SPARSE_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,6 +57,17 @@ Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Rui
 Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
 - 我们提出了 Mirror，使大模型能够通过导航者-推理者协作，从多视角进行自我反思。
 - 鼓励多样且一致的推理，以克服自我反思陷阱。
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+Qinglin Zhu, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+- 提出潜变量优化解码（Latent Refinement Decoding, LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
+- 实现更高效且全局一致的并行生成，为传统自回归解码提供了一种更具理论依据与泛化能力的替代方案。<br>
 </div>
 </div>
 
