@@ -51,8 +51,13 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
-- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
-  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, Chen Jin, Philip Alexander Teare, Dandan Zhang, Lin Gui, Amrutha Saseendran, Yulan He.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Stop the Flip-Flop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
+Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, Chen Jin, Philip Alexander Teare, Dandan Zhang, Lin Gui, Amrutha Saseendran, Yulan He.
+</div>
+</div>
 
 ### 检索增强与幻觉检测
 
@@ -75,19 +80,47 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 </div>
 </div>
 
-- ``Preprint`` [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
-  Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
-- ``Preprint`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
-  Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, Wei Liu, Yulan He, Zheng Yuan, Lin Gui.
-- ``Preprint`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
-  Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yulan He, Lin Gui.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Beyond RAG for Agent Memory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
+Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Detecting Contextual Hallucinations in Large Language Models.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
+Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, Wei Liu, Yulan He, Zheng Yuan, Lin Gui.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Beyond Static Cropping.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
+Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yulan He, Lin Gui.
+</div>
+</div>
 
 ## 💻 代码智能
 
-- ``Preprint`` [Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
-  **Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
-- ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
-  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, Yibo He, Yingjie Fu, Wenpin Jiao, Wei Yang, Tao Xie.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
+**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Synthesizing File-Level Data for Unit Test Generation with.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
+Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, Yibo He, Yingjie Fu, Wenpin Jiao, Wei Yang, Tao Xie.
+</div>
+</div>
 
 
 ## 📚 叙事文本理解
