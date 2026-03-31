@@ -6,27 +6,25 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             {% if page.permalink contains '/zh/' or page.permalink == '/zh/' %}
-              <a href="/zh/#about-me-zh">首页</a>
+              <a href="/zh/#about-me-zh" target="_self">首页</a>
             {% else %}
-              <a href="#about-me">Homepage</a>
+              <a href="#about-me" target="_self">Homepage</a>
             {% endif %}
           </li>
           <li class="masthead__menu-item">
             {% if page.permalink contains '/zh/' or page.permalink == '/zh/' %}
-              <a href="/">English</a>
+              <a href="/" target="_self">English</a>
             {% else %}
-              <a href="/zh/">中文版</a>
+              <a href="/zh/" target="_self">中文版</a>
             {% endif %}
           </li>
           {% if page.permalink contains '/zh/' or page.permalink == '/zh/' %}
-            <!-- Debug: Using Chinese navigation -->
             {% for link in site.data.navigation_zh.main %}
-              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ link.url }}" target="_self">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
-            <!-- Debug: Using English navigation -->
             {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ link.url }}" target="_self">{{ link.title }}</a></li>
             {% endfor %}
           {% endif %}
         </ul>
