@@ -4,6 +4,8 @@
 
 ## 🤔 大模型推理
 
+### 推理方法
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -15,28 +17,15 @@
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://ojs.aaai.org/index.php/AAAI/article/view/40371) <br>
-Zhanghao Hu, **Qinglin Zhu**, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
-- 提出 SPS，一种无监督指标，用于评估检索摘要与LLM表示之间的语义对齐。<br>
-- 引入 xCompress，一种推理时控制器，用于排序和压缩检索结果，以提升生成效果。<br>
+[Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
+Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
+- 我们提出了 Mirror，使大模型能够通过导航者-推理者协作，从多视角进行自我反思。
+- 鼓励多样且一致的推理，以克服自我反思陷阱。
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='/images/beyond_prompt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606)  <br>
-Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
-- 我们提出了 EmbQA，一种面向开放域问答的嵌入级框架，通过无监督对比学习优化检索，并利用探索性Embedding提升答案多样性和准确率。
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2025</div><img src='/images/SPARSE_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,19 +38,9 @@ Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Rui
 </div>
 </div>
 
+### 解码与生成
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
-Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
-- 我们提出了 Mirror，使大模型能够通过导航者-推理者协作，从多视角进行自我反思。
-- 鼓励多样且一致的推理，以克服自我反思陷阱。
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
@@ -73,6 +52,28 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 - ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
   Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, Chen Jin, Philip Alexander Teare, Dandan Zhang, Lin Gui, Amrutha Saseendran, Yulan He.
+
+### 检索增强与幻觉检测
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://ojs.aaai.org/index.php/AAAI/article/view/40371) <br>
+Zhanghao Hu, **Qinglin Zhu**, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
+- 提出 SPS，一种无监督指标，用于评估检索摘要与LLM表示之间的语义对齐。<br>
+- 引入 xCompress，一种推理时控制器，用于排序和压缩检索结果，以提升生成效果。<br>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='/images/beyond_prompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering](https://arxiv.org/abs/2503.01606)  <br>
+Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
+- 我们提出了 EmbQA，一种面向开放域问答的嵌入级框架，通过无监督对比学习优化检索，并利用探索性Embedding提升答案多样性和准确率。
+</div>
+</div>
+
 - ``Preprint`` [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
   Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
 - ``Preprint`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
@@ -104,7 +105,7 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
@@ -114,7 +115,7 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
@@ -135,7 +136,7 @@ Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
 - ``CCL-2020`` [Attention-based Recurrent Network Combined with Financial Lexicon for Aspect-level Sentiment Classification](https://aclanthology.org/2020.ccl-1.63/) <br>
   **Qinglin Zhu**, Bin Liang, Liuyu Han, Yi Chen, Ruifeng Xu, and Ruibin Mao.
 - ``LREC-2020`` [Target-based sentiment annotation in Chinese financial news](https://aclanthology.org/2020.lrec-1.620/#:~:text=The%20clause%20reflecting%20the%20profitability,expression%20for%20determining%20the%20polarity.) <br>
-  Chaofa Yuan, Yuhan Liu, Rongdi Yin, Jun Zhang, **Qinling Zhu**, Ruibin Mao, Ruifeng Xu.
+  Chaofa Yuan, Yuhan Liu, Rongdi Yin, Jun Zhang, **Qinglin Zhu**, Ruibin Mao, Ruifeng Xu.
 
 ## 🗣️ 论辩挖掘与序列标注
 
