@@ -13,8 +13,8 @@
 [Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://www.arxiv.org/abs/2505.24688) [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/alickzhu/Soft-Reasoning)  <br>
 **Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
 
-- 我们提出了一种基于Embedding的搜索框架，通过优化首个 token 的Embedding来引导生成。
-- 我们该方法结合了 (1) Embedding扰动以实现可控探索，(2) 基于验证器的贝叶斯优化目标，在探索与利用之间取得平衡。
+- 提出了一种基于Embedding的搜索框架，通过优化首个token的Embedding来引导大模型生成。
+- 结合Embedding扰动实现可控探索，并利用基于验证器的贝叶斯优化目标，在探索与利用之间取得平衡。
 </div>
 </div>
 
@@ -46,8 +46,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
 **Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
-- 提出潜变量优化解码（Latent Refinement Decoding, LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
-- 实现更高效且全局一致的并行生成，为传统自回归解码提供了一种更具理论依据与泛化能力的替代方案。<br>
+- 提出潜变量优化解码（LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
+- 实现更高效且全局一致的并行生成，为自回归解码提供了一种更具理论依据的替代方案。<br>
 </div>
 </div>
 
@@ -56,6 +56,9 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
 Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, Chen Jin, Philip Alexander Teare, Dandan Zhang, Lin Gui, Amrutha Saseendran, Yulan He.
+
+- 提出 COVER，一种上下文保持的验证方法，利用 KV cache 覆盖实现留一验证和稳定性感知评分。<br>
+- 消除可撤回扩散解码中的翻转振荡问题，实现更快速、更稳定的并行文本生成。
 </div>
 </div>
 
@@ -85,6 +88,9 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 
 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
 Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
+
+- 提出 xMemory，将智能体记忆解耦为语义组件并进行层次化组织。<br>
+- 通过自顶向下的聚合检索捕捉多样化主题，在长时序智能体任务上优于标准 RAG 方法。
 </div>
 </div>
 
@@ -93,6 +99,9 @@ Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
 
 [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
 Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, Wei Liu, Yulan He, Zheng Yuan, Lin Gui.
+
+- 将注意力模式建模为离散信号，提取高频分量以检测上下文幻觉。<br>
+- 构建了一个轻量级免训练检测器，在 RAGTruth 和 HalluRAG 基准上超越现有基线。
 </div>
 </div>
 
@@ -101,6 +110,9 @@ Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, Wei Liu, Yulan
 
 [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
 Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yulan He, Lin Gui.
+
+- 提出 LASER，一种免训练的层自适应视觉定位方法，利用 VAQ 指标在推理时选择与查询相关的层。<br>
+- 无需额外训练即可增强视觉语言模型的解码，提升细粒度视觉理解能力。
 </div>
 </div>
 
@@ -111,6 +123,9 @@ Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yul
 
 [Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
 **Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
+
+- 提出 Clean-PR 流水线，将含噪声的 PR diff 转化为结构化编辑块，跨 12 种编程语言生成 200 万训练样本。<br>
+- 在 SWE-bench Lite 上提升 13.6%，SWE-bench Verified 上提升 12.3%，验证了真实 PR 数据在仓库级代码编辑中的价值。
 </div>
 </div>
 
@@ -119,6 +134,9 @@ Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yul
 
 [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
 Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, Yibo He, Yingjie Fu, Wenpin Jiao, Wei Yang, Tao Xie.
+
+- 提出基于自调试的流水线，结合引导式测试修复与思维链压缩，合成 7.4 万高质量文件级单元测试样本。<br>
+- 微调模型在单元测试生成上超越 o4-mini，表明迭代调试的合成数据可媲美前沿模型的质量。
 </div>
 </div>
 

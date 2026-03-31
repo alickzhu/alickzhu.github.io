@@ -12,11 +12,8 @@
 [Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://www.arxiv.org/abs/2505.24688) [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/alickzhu/Soft-Reasoning)  <br>
 **Qinglin Zhu**, Runcong Zhao, Hanqi Yan, Yulan He, Yudong Chen, Lin Gui.
 
-- We propose an embedding-based search framework that optimises the embedding of the first token to guide generation. It
-combines
-- (1) Embedding perturbation for controlled exploration and
-- (2) Bayesian optimisation to refine embeddings via a
-verifier-guided objective, balancing exploration and exploitation.
+- Proposes an embedding-based search framework that guides LLM generation by optimising the first token's embedding.<br>
+- Combines embedding perturbation for controlled exploration with Bayesian optimisation via a verifier-guided objective, balancing exploration and exploitation.
 </div>
 </div>
 
@@ -48,8 +45,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
 **Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
-- Proposes Latent Refinement Decoding (LRD), a two-stage decoding framework that addresses information loss and premature commitment in diffusion-inspired language models through latent refinement and predictive feedback.<br>
-- Enables faster and more consistent parallel generation, providing a principled and versatile alternative to traditional autoregressive decoding.<br>
+- Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
+- Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
 </div>
 </div>
 
@@ -58,6 +55,9 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
 Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, Chen Jin, Philip Alexander Teare, Dandan Zhang, Lin Gui, Amrutha Saseendran, Yulan He.
+
+- Proposes COVER, a context-preserving verification method that uses KV cache overriding for leave-one-out verification and stability-aware scoring.<br>
+- Eliminates flip-flop oscillations in revocable diffusion decoding, enabling faster and more stable parallel text generation.
 </div>
 </div>
 
@@ -88,6 +88,9 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 
 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
 Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
+
+- Proposes xMemory, which decouples agent memories into semantic components and organises them hierarchically.<br>
+- Retrieves via top-down aggregation to capture diverse themes, outperforming standard RAG on long-horizon agent tasks.
 </div>
 </div>
 
@@ -96,6 +99,9 @@ Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
 
 [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
 Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, Wei Liu, Yulan He, Zheng Yuan, Lin Gui.
+
+- Models attention patterns as discrete signals and extracts high-frequency components to detect contextual hallucinations.<br>
+- Builds a lightweight, training-free detector that outperforms existing baselines on RAGTruth and HalluRAG benchmarks.
 </div>
 </div>
 
@@ -104,6 +110,9 @@ Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, Wei Liu, Yulan
 
 [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
 Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yulan He, Lin Gui.
+
+- Proposes LASER, a training-free layer-adaptive visual localization method with a VAQ metric for selecting query-relevant layers at inference time.<br>
+- Enhances vision–language model decoding without additional training, improving fine-grained visual understanding.
 </div>
 </div>
 
@@ -114,6 +123,9 @@ Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yul
 
 [Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
 **Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
+
+- Introduces Clean-PR, a pipeline that converts noisy PR diffs into structured edit blocks, yielding 2M training samples across 12 languages.<br>
+- Achieves +13.6% on SWE-bench Lite and +12.3% on SWE-bench Verified, demonstrating the value of real-world PRs for repo-level code editing.
 </div>
 </div>
 
@@ -122,6 +134,9 @@ Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yul
 
 [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
 Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, Yibo He, Yingjie Fu, Wenpin Jiao, Wei Yang, Tao Xie.
+
+- Proposes a self-debugging pipeline with guided test repair and CoT compression, synthesising 74K high-quality file-level unit test examples.<br>
+- Fine-tuned models outperform o4-mini on unit test generation, showing that synthetic data with iterative debugging can match frontier-model quality.
 </div>
 </div>
 
