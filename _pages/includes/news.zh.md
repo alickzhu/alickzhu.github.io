@@ -1,3 +1,4 @@
+<span class='anchor' id='news-zh'></span>
 # 🔥 最新动态
 
 - *2025.11*: 🎉 1 篇论文被 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) 接收（**Oral**🌟）

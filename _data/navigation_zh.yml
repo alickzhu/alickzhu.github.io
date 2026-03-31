@@ -1,18 +1,18 @@
 main:
   - title: "关于我"
-    url: "#about-me"
+    url: "#about-me-zh"
 
   - title: "最新动态"
-    url: "#最新动态"
+    url: "#news-zh"
 
   - title: "论文"
-    url: "#论文"
+    url: "#publications-zh"
 
   - title: "荣誉与奖项"
-    url: "#荣誉与奖项"
+    url: "#honors-zh"
 
   - title: "教育经历"
-    url: "#教育经历"
+    url: "#educations-zh"
 
   - title: "工作与实习经历"
-    url: "#工作与实习经历"
+    url: "#works-zh"
