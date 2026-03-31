@@ -5,7 +5,7 @@ layout: default
 author_profile: true
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me-zh'></span>
 
 {% include_relative includes/intro.zh.md %}
 

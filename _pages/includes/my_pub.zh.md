@@ -1,3 +1,4 @@
+<span class='anchor' id='publications-zh'></span>
 # 📝 论文
 
 (* 共同一作, † 通讯作者)
