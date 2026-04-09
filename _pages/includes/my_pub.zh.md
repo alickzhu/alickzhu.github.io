@@ -18,16 +18,8 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2025</div><img src='/images/SPARSE_.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
-
-- 我们提出了 Concise-SAE，这是一种无需训练的指令跟随方法，通过自然语言指令编辑相关神经元。
-- 在我们新提出的 FreeInstruct 基准（1212 个叙事样本）上，无需训练或标注数据即可达到 SOTA。
-</div>
-</div>
+- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,16 +131,8 @@ Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
 - ``Preprint`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
   Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, et al.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Beyond Static Cropping.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
-Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yulan He, Lin Gui.
-
-- 提出 LASER，一种免训练的层自适应视觉定位方法，利用 VAQ 指标在推理时选择与查询相关的层。<br>
-- 无需额外训练即可增强视觉语言模型的解码，提升细粒度视觉理解能力。
-</div>
-</div>
+- ``Preprint`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
+  Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, et al.
 
 ## 😆 情感分析与立场检测
 

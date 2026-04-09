@@ -17,16 +17,8 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2025</div><img src='/images/SPARSE_.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, Xiucheng Lv, Shun Shao, Lin Gui, Ruifeng Xu, Yulan He.
-
-- We introduce Concise-SAE, a training-free method that improves instruction following by editing relevant neurons using natural language instructions.
-- Tested on our new FreeInstruct benchmark of 1,212 narrative-rich examples, it achieves state-of-the-art results without training or labelled data.
-</div>
-</div>
+- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,16 +131,8 @@ Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
 - ``Preprint`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
   Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, et al.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Beyond Static Cropping.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
-Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, Yuxi Hong, Yijun Liu, Jingyong Su, Yulan He, Lin Gui.
-
-- Proposes LASER, a training-free layer-adaptive visual localization method with a VAQ metric for selecting query-relevant layers at inference time.<br>
-- Enhances vision–language model decoding without additional training, improving fine-grained visual understanding.
-</div>
-</div>
+- ``Preprint`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
+  Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, et al.
 
 ## 😆 Sentiment Analysis and Stance Detection
 
