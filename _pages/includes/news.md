@@ -1,6 +1,7 @@
 # 🔥 News
 
 - *2025.11*: 🎉 1 paper accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (**Oral**🌟)
+- *2025.11*: 🎉 1 paper accepted to [ACL 2026](https://2026.aclweb.org/) (Demo Track)
 - *2025.08*: 🎉 1 paper accepted to [EMNLP 2025](https://2025.emnlp.org/) 
 - *2025.05*: 🧑‍💻 Started internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/microsoft_logo.svg' style="width: 3em; vertical-align: middle;">  
 - *2025.05*: 🎉 1 paper accepted to [ACL 2025](https://2025.aclweb.org/index.html)  
