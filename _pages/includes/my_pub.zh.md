@@ -59,7 +59,7 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 Demo</div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class="new-badge">New</span> [SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
+[SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
 Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
 
 - 提出SymbolicThought框架，融合大语言模型关系抽取与符号推理，实现高效、可解释的人物关系理解。
