@@ -108,6 +108,18 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.new-badge {
+    display: inline-block;
+    padding: 0.15em 0.5em;
+    font-size: 0.75em;
+    font-weight: 700;
+    color: white;
+    background-color: #e74c3c;
+    border-radius: 3px;
+    vertical-align: middle;
+    margin-right: 0.3em;
+}
+
 .page__content h3 {
     font-size: 1.15em;
     color: #333;

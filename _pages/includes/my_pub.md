@@ -55,6 +55,17 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 ## 🤖 Multi-Agent Systems & Narrative Understanding
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 Demo</div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="new-badge">New</span> [SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
+Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
+
+- Proposes SymbolicThought, a human-in-the-loop system combining LLM extraction and symbolic reasoning for character relationship understanding.
+- Supports editable relationship graphs, logical constraints, and interactive conflict resolution.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ACL-2024 Findings</div><div><img src='/images/conan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,17 +74,6 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 
 - Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios. 
 - To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
-Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
-
-- Proposes SymbolicThought, a human-in-the-loop system combining LLM extraction and symbolic reasoning for character relationship understanding.
-- Supports editable relationship graphs, logical constraints, and interactive conflict resolution.
 </div>
 </div>
 
