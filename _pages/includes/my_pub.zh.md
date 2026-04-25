@@ -3,7 +3,7 @@
 
 (* 共同一作, † 通讯作者)
 
-## 🤔 LLM Reasoning, Decoding & Code Intelligence
+## 🤔 LLM Reasoning & Decoding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,6 +58,13 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 </div>
 </div>
 
+- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
+- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
+  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
+
+## 💻 Code Intelligence
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,10 +76,6 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 </div>
 </div>
 
-- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
-- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
-  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
 - ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
   Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 
