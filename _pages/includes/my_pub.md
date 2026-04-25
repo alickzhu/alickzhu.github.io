@@ -2,7 +2,7 @@
 
 (* Equal contribution, † Corresponding author)
 
-## 🤔 LLM Reasoning & Decoding
+## 🤔 LLM Reasoning, Decoding & Code Intelligence
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -15,6 +15,46 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
+Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
+- Proposes Mirror, enabling LLMs to reflect from multiple perspectives via Navigator–Reasoner cooperation.<br>
+- Encourages both diverse and consistent reasoning to overcome self-reflection traps.<br>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+- Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
+- Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
+**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
+
+- Introduces Clean-PR, a pipeline that converts noisy PR diffs into structured edit blocks, yielding 2M training samples across 12 languages.<br>
+- Achieves +13.6% on SWE-bench Lite and +12.3% on SWE-bench Verified, demonstrating the value of real-world PRs for repo-level code editing.
+</div>
+</div>
+
+- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
+- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
+  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
+- ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
+  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
+
+## 📚 Narrative Understanding
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 Demo</div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -23,16 +63,6 @@ Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
 
 - Proposes SymbolicThought, a human-in-the-loop system combining LLM extraction and symbolic reasoning for character relationship understanding.
 - Supports editable relationship graphs, logical constraints, and interactive conflict resolution.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
-Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
-- Proposes Mirror, enabling LLMs to reflect from multiple perspectives via Navigator–Reasoner cooperation.<br>
-- Encourages both diverse and consistent reasoning to overcome self-reflection traps.<br>
 </div>
 </div>
 
@@ -47,38 +77,17 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
-**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
-- Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
-- Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
+[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
+**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
+
+- We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
 </div>
 </div>
 
-- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
-- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
-  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
-
-## 💻 Code Intelligence
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
-**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
-
-- Introduces Clean-PR, a pipeline that converts noisy PR diffs into structured edit blocks, yielding 2M training samples across 12 languages.<br>
-- Achieves +13.6% on SWE-bench Lite and +12.3% on SWE-bench Verified, demonstrating the value of real-world PRs for repo-level code editing.
-</div>
-</div>
-
-- ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
-  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
-
-## 🔍 Retrieval-Augmented Generation & Agent
+## 🔍 Retrieval and Memory for LLMs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,20 +113,10 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 <div class='paper-box-text' markdown="1">
 
 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
-Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
+Zhanghao Hu\*, **Qinglin Zhu**\*, Hanqi Yan, Yulan He, Lin Gui.
 
 - Proposes xMemory, which decouples agent memories into semantic components and organises them hierarchically.<br>
 - Retrieves via top-down aggregation to capture diverse themes, outperforming standard RAG on long-horizon agent tasks.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
-**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
-
-- We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
 </div>
 </div>
 

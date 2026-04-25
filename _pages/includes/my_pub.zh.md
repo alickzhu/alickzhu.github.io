@@ -3,7 +3,7 @@
 
 (* 共同一作, † 通讯作者)
 
-## 🤔 LLM Reasoning & Decoding
+## 🤔 LLM Reasoning, Decoding & Code Intelligence
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -16,6 +16,46 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
+Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
+- 我们提出了 Mirror，使大模型能够通过导航者-推理者协作，从多视角进行自我反思。
+- 鼓励多样且一致的推理，以克服自我反思陷阱。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+- 提出潜变量优化解码（LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
+- 实现更高效且全局一致的并行生成，为自回归解码提供了一种更具理论依据的替代方案。<br>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
+**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
+
+- 提出 Clean-PR 流水线，将含噪声的 PR diff 转化为结构化编辑块，跨 12 种编程语言生成 200 万训练样本。<br>
+- 在 SWE-bench Lite 上提升 13.6%，SWE-bench Verified 上提升 12.3%，验证了真实 PR 数据在仓库级代码编辑中的价值。
+</div>
+</div>
+
+- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
+- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
+  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
+- ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
+  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
+
+## 📚 Narrative Understanding
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 Demo</div><img src='/images/symbolicthought.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -24,16 +64,6 @@ Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
 
 - 提出SymbolicThought框架，融合大语言模型关系抽取与符号推理，实现高效、可解释的人物关系理解。
 - 支持关系图可编辑、逻辑约束校验和交互式冲突解决。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2024</div><img src='/images/mirror.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning](https://arxiv.org/abs/2402.14963) <br>
-Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/hanqi-qi/Mirror)
-- 我们提出了 Mirror，使大模型能够通过导航者-推理者协作，从多视角进行自我反思。
-- 鼓励多样且一致的推理，以克服自我反思陷阱。
 </div>
 </div>
 
@@ -48,38 +78,17 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/LRD_fit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
-**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
-- 提出潜变量优化解码（LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
-- 实现更高效且全局一致的并行生成，为自回归解码提供了一种更具理论依据的替代方案。<br>
+[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
+**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
+
+- 我们提出了 PLAYER*，一个用于剧本杀的多智能体交互框架，结合了采样规划器和提问驱动的搜索。
 </div>
 </div>
 
-- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
-- ``Preprint`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
-  Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
-
-## 💻 Code Intelligence
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
-**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Yeyun Gong.
-
-- 提出 Clean-PR 流水线，将含噪声的 PR diff 转化为结构化编辑块，跨 12 种编程语言生成 200 万训练样本。<br>
-- 在 SWE-bench Lite 上提升 13.6%，SWE-bench Verified 上提升 12.3%，验证了真实 PR 数据在仓库级代码编辑中的价值。
-</div>
-</div>
-
-- ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
-  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
-
-## 🔍 Retrieval-Augmented Generation & Agent
+## 🔍 Retrieval and Memory for LLMs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,20 +113,10 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 <div class='paper-box-text' markdown="1">
 
 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
-Zhanghao Hu, **Qinglin Zhu**, Hanqi Yan, Yulan He, Lin Gui.
+Zhanghao Hu\*, **Qinglin Zhu**\*, Hanqi Yan, Yulan He, Lin Gui.
 
 - 提出 xMemory，将智能体记忆解耦为语义组件并进行层次化组织。<br>
 - 通过自顶向下的聚合检索捕捉多样化主题，在长时序智能体任务上优于标准 RAG 方法。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/PLAYER.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
-**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
-
-- 我们提出了 PLAYER*，一个用于剧本杀的多智能体交互框架，结合了采样规划器和提问驱动的搜索。
 </div>
 </div>
 
