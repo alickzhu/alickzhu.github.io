@@ -50,6 +50,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
   Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
 - ``ICML-2026`` [Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs]() <br>
   Zhihao Wu, Gracia Gong, **Qinglin Zhu**, Yudong Chen, Runcong Zhao.
+- ``ICML-2026`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
+  Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, et al.
 - ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
   Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
 - ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
@@ -122,8 +124,6 @@ Zhanghao Hu\*, **Qinglin Zhu**\*, Hanqi Yan, Yulan He, Lin Gui.
 </div>
 </div>
 
-- ``ICML-2026`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
-  Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, et al.
 - ``Preprint`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
   Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, et al.
 
