@@ -5,6 +5,17 @@
 
 ## 🤔 LLM Reasoning, Decoding & Code Intelligence
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2026</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
+**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Peng Cheng, Yeyun Gong.
+
+- 提出 Clean-PR 流水线，将含噪声的 PR diff 转化为结构化编辑块，跨 12 种编程语言生成 200 万训练样本。<br>
+- 在 SWE-bench Lite 上提升 13.6%，SWE-bench Verified 上提升 12.3%，验证了真实 PR 数据在仓库级代码编辑中的价值。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,23 +47,12 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2026</div><img src='/images/Pull Requests as a Training Signal for Repo-Level Code Editing.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Pull Requests as a Training Signal for Repo-Level Code Editing](https://arxiv.org/abs/2602.07457) <br>
-**Qinglin Zhu**, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, Peng Cheng, Yeyun Gong.
-
-- 提出 Clean-PR 流水线，将含噪声的 PR diff 转化为结构化编辑块，跨 12 种编程语言生成 200 万训练样本。<br>
-- 在 SWE-bench Lite 上提升 13.6%，SWE-bench Verified 上提升 12.3%，验证了真实 PR 数据在仓库级代码编辑中的价值。
-</div>
-</div>
-
-- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
-  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
 - ``ICML-2026`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
   Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
 - ``ICML-2026`` [Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs]() <br>
   Zhihao Wu, Gracia Gong, **Qinglin Zhu**, Yudong Chen, Runcong Zhao.
+- ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
+  Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
 - ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
   Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 
