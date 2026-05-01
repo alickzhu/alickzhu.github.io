@@ -1,6 +1,7 @@
 <span class='anchor' id='news-zh'></span>
 # 🔥 最新动态
 
+- *2026.05*: 🎉 4 篇论文被 [ICML 2026](https://icml.cc/Conferences/2026) 接收
 - *2026.04*: 🎉 1 篇论文被 [ACL 2026](https://2026.aclweb.org/) 接收（Demo Track）
 - *2025.11*: 🎉 1 篇论文被 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) 接收（**Oral**🌟）
 - *2025.08*: 🎉 1 篇论文被 [EMNLP 2025](https://2025.emnlp.org/) 接收  
