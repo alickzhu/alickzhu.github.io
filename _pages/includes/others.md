@@ -22,7 +22,7 @@
 
 # 🫡 Service
 
-- Reviewer: ICLR, ICML, ACL, AAAI, EMNLP, NAACL, NLPCC.
+- Reviewer: ICML, NeurIPS, ICLR, ACL, AAAI, KDD, EMNLP, NAACL, NLPCC.
 
 # 🗺️ Visitor Map
 
