@@ -13,7 +13,7 @@
 
 # 🫡 学术服务
 
-- 审稿人：ICLR, ICML, ACL, AAAI, EMNLP, NAACL, NLPCC。
+- 审稿人：ICML, NeurIPS, ICLR, ACL, AAAI, KDD, EMNLP, NAACL, NLPCC。
 
 # 🗺️ 访客地图
 
