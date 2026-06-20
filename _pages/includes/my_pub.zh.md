@@ -52,8 +52,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
 Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
-- 提出 ASRD，一个面向扩散式语言模型可撤销解码的免训练框架，基于时序一致性将解码上下文显式解耦为可信"锚点 token"（Anchor Tokens）与不确定候选 token，缓解错误传播与局部错误自我强化。<br>
-- 结合 Anchor-Guided Generation（在掩码位置注入熵加权锚点信号）与 Anchor-Perturbed Verification（对不确定候选施加正交扰动），在数学与代码基准上准确率最高提升 6.4%，推理吞吐最高加速 7.2×。
+- 提出 ASRD，一个免训练框架，将扩散式 LLM 解码上下文解耦为可信 **Anchor Tokens** 与不确定候选，缓解错误传播。<br>
+- 基于 Anchor 引导生成与 Anchor 扰动验证，在数学与代码基准上准确率最高提升 6.4%，吞吐最高加速 7.2×。
 </div>
 </div>
 

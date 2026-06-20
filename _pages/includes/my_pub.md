@@ -51,8 +51,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 
 [Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
 Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
-- Proposes ASRD, a training-free revocable decoding framework for diffusion LLMs that decouples context into trusted **Anchor Tokens** (identified via temporal consistency) and uncertain candidates, mitigating error propagation and local error reinforcement.<br>
-- Combines Anchor-Guided Generation (entropy-weighted anchor signals at masked positions) with Anchor-Perturbed Verification (orthogonal perturbations on uncertain tokens), yielding up to +6.4% accuracy and up to 7.2× inference throughput on math and coding benchmarks.
+- Proposes ASRD, a training-free framework that decouples diffusion-LLM decoding context into trusted **Anchor Tokens** and uncertain candidates to curb error propagation.<br>
+- Anchor-Guided Generation and Anchor-Perturbed Verification deliver up to +6.4% accuracy and 7.2× throughput on math and code benchmarks.
 </div>
 </div>
 
