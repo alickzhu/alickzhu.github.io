@@ -46,6 +46,16 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/followlatent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
+Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
+- Proposes ASRD, a training-free revocable decoding framework for diffusion LLMs that decouples context into trusted **Anchor Tokens** (identified via temporal consistency) and uncertain candidates, mitigating error propagation and local error reinforcement.<br>
+- Combines Anchor-Guided Generation (entropy-weighted anchor signals at masked positions) with Anchor-Perturbed Verification (orthogonal perturbations on uncertain tokens), yielding up to +6.4% accuracy and up to 7.2× inference throughput on math and coding benchmarks.
+</div>
+</div>
+
 - ``ICML-2026`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
   Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
 - ``ICML-2026`` [Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs]() <br>
@@ -54,6 +64,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
   Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, et al.
 - ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
   Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
+- ``Preprint`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
+  Murong Ma, Tianyu Chen, Yang Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhongxin Huang, Peng Cheng, Yu Lu, et al.
 - ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
   Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 
@@ -96,7 +108,7 @@ Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://ojs.aaai.org/index.php/AAAI/article/view/40371) <br>
+[Beyond Perplexity: Let the Reader Select Retrieval Summaries via Spectrum Projection Score](https://ojs.aaai.org/index.php/AAAI/article/view/40371) <br>
 Zhanghao Hu, **Qinglin Zhu**, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
 - Proposes SPS, a supervision-free metric to assess semantic alignment between retrieved summaries and LLM representations.<br>
 - Introduces xCompress, an inference-time controller that ranks and compresses retrievals to improve generation and clarify retrieval–generation interaction.<br>
@@ -124,6 +136,8 @@ Zhanghao Hu\*, **Qinglin Zhu**\*, Hanqi Yan, Yulan He, Lin Gui.
 </div>
 </div>
 
+- ``IEEE TASLP`` [Meta-Memory for Large Language Models]() <br>
+  Bin Liang, Chenxin Ke, Runcong Zhao, **Qinglin Zhu**, Lin Gui, Yulan Yu, Heng Wang, Ruifeng Xu, Kam-Fai Wong.
 - ``Preprint`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
   Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, et al.
 
