@@ -9,4 +9,4 @@
 
 我曾在[腾讯音乐娱乐](https://www.tencentmusic.com/en-us/)(为期9个月)、[虾皮](https://www.sea.com/products/shopee)(逐风计划, 为期4个月)实习，并在[百度](https://usa.baidu.com/)担任自然语言处理算法工程师(为期5个月)。
 
-目前在[微软亚洲研究院](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/microsoft_logo.svg' style="width: 4em;">实习。 
+目前在[微软亚洲研究院](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/logos/microsoft.svg' style="width: 4em;">实习。 
