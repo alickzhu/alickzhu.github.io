@@ -63,12 +63,12 @@ Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Y
   Zhihao Wu, Gracia Gong, **Qinglin Zhu**, Yudong Chen, Runcong Zhao.
 - ``ICML-2026`` [Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145) <br>
   Siya Qi, Yudong Chen, Runcong Zhao, **Qinglin Zhu**, Zhanghao Hu, et al.
+- ``ASE-2026`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
+  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 - ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
   Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
 - ``Preprint`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
   Murong Ma, Tianyu Chen, Yang Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhongxin Huang, Peng Cheng, Yu Lu, et al.
-- ``Preprint`` [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181) <br>
-  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 
 ## 📚 Narrative Understanding
 
