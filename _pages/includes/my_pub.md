@@ -15,6 +15,16 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2026</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
+Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
+- Proposes ASRD, a training-free framework that decouples diffusion-LLM decoding context into trusted **Anchor Tokens** and uncertain candidates to curb error propagation.<br>
+- Anchor-Guided Generation and Anchor-Perturbed Verification deliver up to +6.4% accuracy and 7.2× throughput on math and code benchmarks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/papers/soft-reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,16 +53,6 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 **Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
 - Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
 - Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
-Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
-- Proposes ASRD, a training-free framework that decouples diffusion-LLM decoding context into trusted **Anchor Tokens** and uncertain candidates to curb error propagation.<br>
-- Anchor-Guided Generation and Anchor-Perturbed Verification deliver up to +6.4% accuracy and 7.2× throughput on math and code benchmarks.
 </div>
 </div>
 
