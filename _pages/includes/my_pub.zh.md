@@ -16,16 +16,6 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2026</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
-Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
-- 提出 ASRD，一个免训练框架，将扩散式 LLM 解码上下文解耦为可信 **Anchor Tokens** 与不确定候选，缓解错误传播。<br>
-- 基于 Anchor 引导生成与 Anchor 扰动验证，在数学与代码基准上准确率最高提升 6.4%，吞吐最高加速 7.2×。
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/papers/soft-reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,6 +24,16 @@ Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Y
 
 - 提出了一种基于Embedding的搜索框架，通过优化首个token的Embedding来引导大模型生成。
 - 结合Embedding扰动实现可控探索，并利用基于验证器的贝叶斯优化目标，在探索与利用之间取得平衡。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2026</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
+Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
+- 提出 ASRD，一个免训练框架，将扩散式 LLM 解码上下文解耦为可信 **Anchor Tokens** 与不确定候选，缓解错误传播。<br>
+- 基于 Anchor 引导生成与 Anchor 扰动验证，在数学与代码基准上准确率最高提升 6.4%，吞吐最高加速 7.2×。
 </div>
 </div>
 

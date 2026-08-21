@@ -15,16 +15,6 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2026</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
-Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
-- Proposes ASRD, a training-free framework that decouples diffusion-LLM decoding context into trusted **Anchor Tokens** and uncertain candidates to curb error propagation.<br>
-- Anchor-Guided Generation and Anchor-Perturbed Verification deliver up to +6.4% accuracy and 7.2× throughput on math and code benchmarks.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/papers/soft-reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,6 +23,16 @@ Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Y
 
 - Proposes an embedding-based search framework that guides LLM generation by optimising the first token's embedding.<br>
 - Combines embedding perturbation for controlled exploration with Bayesian optimisation via a verifier-guided objective, balancing exploration and exploitation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2026</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
+Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
+- Proposes ASRD, a training-free framework that decouples diffusion-LLM decoding context into trusted **Anchor Tokens** and uncertain candidates to curb error propagation.<br>
+- Anchor-Guided Generation and Anchor-Perturbed Verification deliver up to +6.4% accuracy and 7.2× throughput on math and code benchmarks.
 </div>
 </div>
 
