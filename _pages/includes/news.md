@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.07*: 🎉 1 paper accepted to [EMNLP 2026](https://2026.emnlp.org/)
 - *2026.07*: 🎉 1 paper accepted to [ASE 2026](https://conf.researchr.org/home/ase-2026)
 - *2026.05*: 🎉 4 papers accepted to [ICML 2026](https://icml.cc/Conferences/2026)
 - *2026.05*: 🎉 1 paper accepted to [IEEE Transactions on Audio, Speech and Language Processing (TASLP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)

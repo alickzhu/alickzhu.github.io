@@ -16,6 +16,16 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-2026</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
+Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
+- 提出 ASRD，一个免训练框架，将扩散式 LLM 解码上下文解耦为可信 **Anchor Tokens** 与不确定候选，缓解错误传播。<br>
+- 基于 Anchor 引导生成与 Anchor 扰动验证，在数学与代码基准上准确率最高提升 6.4%，吞吐最高加速 7.2×。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/papers/soft-reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,16 +54,6 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 **Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
 - 提出潜变量优化解码（LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
 - 实现更高效且全局一致的并行生成，为自回归解码提供了一种更具理论依据的替代方案。<br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/follow-latent-roadmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) <br>
-Yizhen Yao\*, **Qinglin Zhu**\*, Runcong Zhao, Xiangxiang Dai, Yanzheng Xiang, Yulan He, Lin Gui.
-- 提出 ASRD，一个免训练框架，将扩散式 LLM 解码上下文解耦为可信 **Anchor Tokens** 与不确定候选，缓解错误传播。<br>
-- 基于 Anchor 引导生成与 Anchor 扰动验证，在数学与代码基准上准确率最高提升 6.4%，吞吐最高加速 7.2×。
 </div>
 </div>
 
