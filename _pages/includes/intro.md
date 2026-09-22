@@ -2,8 +2,8 @@
 
 I am a 4th-year PhD student at [King's College London](https://www.kcl.ac.uk/). I am fortunate to be supervised by Professor [Lin Gui](https://sites.google.com/view/lin-gui/about-me) and Professor [Yulan He](https://sites.google.com/view/yulanhe). My current research focuses on _**Large Language Model Reasoning**_ in Natural Language Processing (NLP). <a href='https://scholar.google.com/citations?user=56n5-gEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Falickzhu%2Falickzhu.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-**I am actively seeking job opportunities.** Please feel free to [contact me](mailto:zhuqlfx@gmail.com) about relevant openings.
-
 I completed both my Bachelor's and Master's degrees in Computer Science and Technology at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), under the guidance of Professor [Ruifeng Xu](http://faculty.hitsz.edu.cn/xuruifeng). During my master’s studies, I engaged in research focused on Stance Detection and Argument Mining.
 
 Besides research, I have interned at [**Tencent Music Entertainment**](https://www.tencentmusic.com/en-us/) for nine months and [**Shopee**](https://www.sea.com/products/shopee) for four months, and worked at [**Baidu**](https://usa.baidu.com/) for five months as a Natural Language Processing Algorithm Engineer. I am currently interning at [**Microsoft Research Asia**](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='/images/logos/microsoft.svg' style="width: 4em;"> in Beijing.
+
+⭐ **I am actively seeking job opportunities. Please feel free to [contact me](mailto:zhuqlfx@gmail.com) about relevant openings.**
