@@ -46,11 +46,11 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/lrd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/lrd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
-**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+[Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Siya Qi, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
 - Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
 - Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
 </div>
@@ -66,8 +66,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
   Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 - ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
   Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
-- ``Preprint`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
-  Murong Ma, Tianyu Chen, Yang Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhongxin Huang, Peng Cheng, Yu Lu, et al.
+- ``NeurIPS-2026 Poster`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
+  Murong Ma, Tianyu Chen, Yun Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhiyong Huang, Peng Cheng, Yan Lu, Jin Song Dong.
 
 ## 📚 Narrative Understanding
 
@@ -125,11 +125,11 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/xmemory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/xmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
-Zhanghao Hu\*, **Qinglin Zhu**\*, Hanqi Yan, Yulan He, Lin Gui.
+Zhanghao Hu\*, **Qinglin Zhu**\*, Runcong Zhao, Di Liang, Hanqi Yan, Yulan He, Lin Gui.
 
 - Proposes xMemory, which decouples agent memories into semantic components and organises them hierarchically.<br>
 - Retrieves via top-down aggregation to capture diverse themes, outperforming standard RAG on long-horizon agent tasks.
