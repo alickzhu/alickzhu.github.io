@@ -15,6 +15,16 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/lrd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Siya Qi, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+- Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
+- Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 Spotlight</div><img src='/images/papers/soft-reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,16 +56,6 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/lrd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
-**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Siya Qi, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
-- Proposes Latent Refinement Decoding (LRD), a two-stage framework that tackles information loss and premature commitment in diffusion-based language models via latent refinement and predictive feedback.<br>
-- Enables faster, globally consistent parallel generation as a principled alternative to autoregressive decoding.<br>
-</div>
-</div>
-
 - ``ICML-2026`` [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](https://arxiv.org/abs/2602.06161) <br>
   Yanzheng Xiang, Lan Wei, Yizhen Yao, **Qinglin Zhu**, Hanqi Yan, et al.
 - ``ICML-2026`` [Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs]() <br>
@@ -69,41 +69,18 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 - ``NeurIPS-2026 Poster`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
   Murong Ma, Tianyu Chen, Yun Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhiyong Huang, Peng Cheng, Yan Lu, Jin Song Dong.
 
-## 📚 Narrative Understanding
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 Demo</div><img src='/images/papers/symbolic-thought.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
-Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
-
-- Proposes SymbolicThought, a human-in-the-loop system combining LLM extraction and symbolic reasoning for character relationship understanding.
-- Supports editable relationship graphs, logical constraints, and interactive conflict resolution.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL-2024 Findings</div><div><img src='/images/papers/conan.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)<br>
-Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/BLPXSPG/Conan/tree/main)
-
-- Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios. 
-- To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/player.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
-**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
-
-- We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework. 
-</div>
-</div>
-
 ## 🔍 Retrieval and Memory for LLMs
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/xmemory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
+Zhanghao Hu\*, **Qinglin Zhu**\*, Runcong Zhao, Di Liang, Hanqi Yan, Yulan He, Lin Gui.
+
+- Proposes xMemory, which decouples agent memories into semantic components and organises them hierarchically.<br>
+- Retrieves via top-down aggregation to capture diverse themes, outperforming standard RAG on long-horizon agent tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026 Oral</div><img src='/images/papers/sps-aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,17 +99,6 @@ Zhanghao Hu, **Qinglin Zhu**, Siya Qi, Yulan He, Hanqi Yan, Lin Gui.
 Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 - Proposes EmbQA, an embedding-level framework for open-domain QA that optimizes retrieval with unsupervised contrastive
   learning and improves answer diversity via exploratory embeddings.<br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/xmemory.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
-Zhanghao Hu\*, **Qinglin Zhu**\*, Runcong Zhao, Di Liang, Hanqi Yan, Yulan He, Lin Gui.
-
-- Proposes xMemory, which decouples agent memories into semantic components and organises them hierarchically.<br>
-- Retrieves via top-down aggregation to capture diverse themes, outperforming standard RAG on long-horizon agent tasks.
 </div>
 </div>
 
@@ -160,3 +126,37 @@ Zhanghao Hu\*, **Qinglin Zhu**\*, Runcong Zhao, Di Liang, Hanqi Yan, Yulan He, L
   **Qinglin Zhu**, Zijie Lin, Yice Zhang, Jingyi Sun, Xiang Li, Qihui Lin, Yixue Dang, and Ruifeng Xu.
 - ``NLPCC-2021`` [A Hierarchical Sequence Labeling Model for Argument Pair Extraction](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_38) <br>
   Jingyi Sun, **Qinglin Zhu**, Jianzhu Bao, Jipeng Wu, Caihua Yang, Rui Wang, and Ruifeng Xu.
+
+## 📚 Narrative Understanding
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 Demo</div><img src='/images/papers/symbolic-thought.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding](https://arxiv.org/abs/2507.04189) <br>
+Runcong Zhao, **Qinglin Zhu**\*, Hainiu Xu, Bin Liang, Yulan He, Lin Gui.
+
+- Proposes SymbolicThought, a human-in-the-loop system combining LLM extraction and symbolic reasoning for character relationship understanding.
+- Supports editable relationship graphs, logical constraints, and interactive conflict resolution.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL-2024 Findings</div><div><img src='/images/papers/conan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://arxiv.org/abs/2402.11051)<br>
+Runcong Zhao\*, **Qinglin Zhu**\* , Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, Lin Gui. [![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&style=social)](https://github.com/BLPXSPG/Conan/tree/main)
+
+- Existing datasets for narrative understanding often fail to represent the complexity and uncertainty of relationships in real-life social scenarios.
+- To address this gap, we introduce a new benchmark, Conan, designed for extracting and analysing intricate character relation graphs from detective narratives.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/player.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662) <br>
+**Qinglin Zhu**, Runcong Zhao, Jinhua Du, Lin Gui, Yulan He. [![](https://img.shields.io/github/stars/alickzhu/PLAYER?style=social)](https://github.com/alickzhu/PLAYER)
+
+- We propose PLAYER*, a novel framework for Murder Mystery Games (剧本杀) using an anytime sampling-based planner and a questioning-driven search framework.
+</div>
+</div>
