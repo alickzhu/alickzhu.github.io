@@ -47,11 +47,11 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/lrd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/lrd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
-**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
+[Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052) <br>
+**Qinglin Zhu**, Yizhen Yao, Runcong Zhao, Yanzheng Xiang, Siya Qi, Amrutha Saseendran, Chen Jin, Philip Alexander Teare, Bin Liang, Yulan He, Lin Gui.
 - 提出潜变量优化解码（LRD）框架，通过潜变量优化与预测反馈两阶段机制，解决扩散式语言模型中的信息丢失与过早决策问题。<br>
 - 实现更高效且全局一致的并行生成，为自回归解码提供了一种更具理论依据的替代方案。<br>
 </div>
@@ -67,8 +67,8 @@ Hanqi Yan\*, **Qinglin Zhu**\* , Xinyu Wang, Lin Gui, Yulan He. [![GitHub](https
   Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, Peng Cheng, **Qinglin Zhu**, et al.
 - ``EMNLP-2025`` [Sparse Activation Editing for Reliable Instruction Following in Narratives](https://arxiv.org/abs/2505.16505) <br>
   Runcong Zhao, Chengyu Cao, **Qinglin Zhu**, et al.
-- ``Preprint`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
-  Murong Ma, Tianyu Chen, Yang Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhongxin Huang, Peng Cheng, Yu Lu, et al.
+- ``NeurIPS-2026 Poster`` [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) <br>
+  Murong Ma, Tianyu Chen, Yun Lin, Shuai Lu, **Qinglin Zhu**, Yeyun Gong, Zhiyong Huang, Peng Cheng, Yan Lu, Jin Song Dong.
 
 ## 📚 Narrative Understanding
 
@@ -125,11 +125,11 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/papers/xmemory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2026 Poster</div><img src='/images/papers/xmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) <br>
-Zhanghao Hu\*, **Qinglin Zhu**\*, Hanqi Yan, Yulan He, Lin Gui.
+Zhanghao Hu\*, **Qinglin Zhu**\*, Runcong Zhao, Di Liang, Hanqi Yan, Yulan He, Lin Gui.
 
 - 提出 xMemory，将智能体记忆解耦为语义组件并进行层次化组织。<br>
 - 通过自顶向下的聚合检索捕捉多样化主题，在长时序智能体任务上优于标准 RAG 方法。
