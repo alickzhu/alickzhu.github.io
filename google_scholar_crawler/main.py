@@ -1,10 +1,19 @@
 from scholarly import scholarly
 import jsonpickle
 import json
+import logging
 from datetime import datetime
 import os
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID', '').strip()
+if not scholar_id:
+    raise SystemExit('Set the GOOGLE_SCHOLAR_ID repository secret before running the crawler.')
+
+scholarly.set_timeout(20)
+scholarly.set_retries(3)
+logging.info('Fetching Google Scholar profile and citation data')
+author: dict = scholarly.search_author_id(scholar_id)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
