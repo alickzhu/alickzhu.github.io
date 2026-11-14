@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.11*: 🎉 1 paper accepted to EACL (Findings): [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304)
 - *2026.09*: 🎉 3 papers accepted to [NeurIPS 2026](https://neurips.cc/Conferences/2026)
 - *2026.07*: 🎉 1 paper accepted to [EMNLP 2026](https://2026.emnlp.org/) (**Oral**🌟)
 - *2026.07*: 🎉 1 paper accepted to [ASE 2026](https://conf.researchr.org/home/ase-2026)

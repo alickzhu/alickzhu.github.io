@@ -104,7 +104,7 @@ Zhanghao Hu, Hanqi Yan, <b>Qinglin Zhu†</b>, Zhenyi Shen, Yulan He, Lin Gui.
 
 - ``IEEE TASLP`` [Meta-Memory for Large Language Models]() <br>
   Bin Liang, Chenxin Ke, Runcong Zhao, **Qinglin Zhu**, Lin Gui, Yulan Yu, Heng Wang, Ruifeng Xu, Kam-Fai Wong.
-- ``Preprint`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
+- ``EACL Findings`` [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304) <br>
   Zipeng Zhu, Zhanghao Hu, **Qinglin Zhu**, et al.
 
 ## 📚 Narrative Understanding
