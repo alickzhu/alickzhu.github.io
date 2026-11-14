@@ -1,7 +1,7 @@
 <span class='anchor' id='news-zh'></span>
 # 🔥 最新动态
 
-- *2026.11*: 🎉 1 篇论文被 EACL（Findings）接收：[Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304)
+- *2026.11*: 🎉 1 篇论文被 [EACL 2026](https://2026.eacl.org/) 接收
 - *2026.09*: 🎉 3 篇论文被 [NeurIPS 2026](https://neurips.cc/Conferences/2026) 接收
 - *2026.07*: 🎉 1 篇论文被 [EMNLP 2026](https://2026.emnlp.org/) 接收（**Oral**🌟）
 - *2026.07*: 🎉 1 篇论文被 [ASE 2026](https://conf.researchr.org/home/ase-2026) 接收
