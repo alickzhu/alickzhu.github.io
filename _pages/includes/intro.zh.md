@@ -3,7 +3,7 @@
 
 我是伦敦国王学院（King's College London）四年级博士生，导师为[桂林](https://sites.google.com/view/lin-gui/about-me)教授和[何瑜岚](https://sites.google.com/view/yulanhe)教授。
 
-我的研究方向为自然语言处理（NLP）中的**大模型推理**。<a href='https://scholar.google.com/citations?user=56n5-gEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Falickzhu%2Falickzhu.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+我的研究方向为自然语言处理（NLP）中的**大模型推理**。<a href='https://scholar.google.com/citations?user=56n5-gEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Falickzhu%2Falickzhu.github.io%2Frefs%2Fheads%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 **我正在积极寻找工作机会，欢迎通过[邮件](mailto:zhuqlfx@gmail.com)与我联系，交流合适的岗位。**
 
